@@ -3,4 +3,4 @@ Building AMAZON Clone using HTML, CSS.
 <br>
 Author - Yogendra Maruthi
 <br>
-yogendramaruthiamazonclone.netlify.app
+<a href="yogendramaruthiamazonclone.netlify.app">
